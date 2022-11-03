@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.select{
+  margin-top: 50px;
+  width: 150px;
+  height: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  border-radius: 5px;
+  border-color: blue;
+  background-color: black;
+}
+.submit{
+  height: 30px;
+  border-radius: 5px;
+  background-color: blue;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
